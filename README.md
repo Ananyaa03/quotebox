@@ -10,7 +10,7 @@
 * Star & Fork This Repository.
 * Just Edit & Add Your Own or Favourite Quote to the `quotes.json` file
 * Commit Changes
-* Open A Pull Request
+* Open A Pull Request.
 * 🔥 Boom , You Just Made an Open Source Contribution!
 
 ## 💥 Note: 
