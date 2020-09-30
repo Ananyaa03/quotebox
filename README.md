@@ -7,7 +7,7 @@
 
 ## 💥 How To Contribute? 
 
-* Star & Fork This Repository
+* Star & Fork This Repository.
 * Just Edit & Add Your Own or Favourite Quote to the `quotes.json` file
 * Commit Changes
 * Open A Pull Request
